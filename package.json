@@ -1,0 +1,16 @@
+{
+  "name": "XRP-INR-Live-Data",
+  "version": "1.0.0",
+  "description": "XRP-INR Live Data From btcxindia's API",
+  "main": "index.js",
+  "repository": "https://github.com/praveenjuge/XRP-INR-Live-Data.git",
+  "author": "praveenjuge <praveenjuge@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blendid": "^4.2.0"
+  },
+  "scripts": {
+    "start": "yarn run blendid",
+    "build": "yarn run blendid -- build"
+  }
+}

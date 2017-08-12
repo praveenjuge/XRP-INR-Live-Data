@@ -1,0 +1,14 @@
+{
+  "sitename": "XRP-INR Live Data",
+  "tagline": "Live Data From btcxindia's API",
+  "url": "",
+  "languageCode": "en-us",
+  "description": "Live Data From btcxindia's API",
+  "keywords": "ripple, btcxindia, XRP, INR, API, telegram",
+  "subject": "Open Source",
+  "type": "Personal",
+  "twitter": "@praveenjuge",
+  "email": "praveenjuge@gmail.com",
+  "color": "#0085C0",
+  "image": "/images/og.png"
+}
