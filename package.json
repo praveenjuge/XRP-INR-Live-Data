@@ -5,12 +5,5 @@
   "main": "index.js",
   "repository": "https://github.com/praveenjuge/XRP-INR-Live-Data.git",
   "author": "praveenjuge <praveenjuge@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "blendid": "^4.2.0"
-  },
-  "scripts": {
-    "start": "yarn run blendid",
-    "build": "yarn run blendid -- build"
-  }
+  "license": "MIT"
 }
